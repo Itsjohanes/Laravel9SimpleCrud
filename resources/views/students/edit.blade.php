@@ -1,4 +1,3 @@
-//blog\resources\views\students\edit.blade.php
 @extends('students.layout')
 @section('content')
 

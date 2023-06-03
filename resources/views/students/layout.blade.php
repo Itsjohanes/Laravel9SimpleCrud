@@ -1,4 +1,3 @@
-//blog\resources\views\students\layout.blade.php
 <!DOCTYPE html>
 <html>
 
